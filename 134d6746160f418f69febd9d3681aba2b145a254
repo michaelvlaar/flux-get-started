@@ -1,0 +1,1 @@
+{"jobID":"f968002e-3f6b-6fef-1eb3-c5b44f1a7f8b","spec":{"type":"policy","cause":{"Message":"","User":"Michael Vlaar \u003cmichael@vlaar.it\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.'podinfod":"glob:3.2.*'"},"remove":{}}}},"result":null}
