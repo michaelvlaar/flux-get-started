@@ -49,6 +49,7 @@ spec:
         command:
         - ./podinfo
         - --port=9898
+        - --ui-message='Welcome to Flux'
         - --port-metrics=9797
         - --grpc-port=9999
         - --grpc-service-name=podinfo
